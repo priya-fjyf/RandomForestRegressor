@@ -1,4 +1,6 @@
 # RandomForestRegressor
+🔍 Introduction
+The Random Forest Regressor is a powerful supervised machine learning algorithm used for predicting continuous values. It works by creating a "forest" of decision trees and taking the average of their predictions — reducing overfitting and increasing accuracy.
 # Concrete Strength Prediction 🧱
 
 Predicting the compressive strength of concrete using **Random Forest Regressor** — a powerful ensemble learning method based on decision trees that improves accuracy by combining multiple trees.
